@@ -1,0 +1,20 @@
+
+en el repositorio remoto (PE github.com ) al crearlo te da los pasos para vincularlo al repositorio local
+
+git init // 
+
+git add file.suf // addea ese archivo
+git add . // addea todos los archivos
+
+git commit -m "" // commitea y deja mensaje
+
+git push // sube archivos al repositorio
+git pull // baja archivos del repositorio
+
+git clone // baja todo el repositorio
+
+git status // te dice que archivos estan addeados / commiteados
+git log // te tira el historial de commiteos
+
+.gitignore // archivo que lista los archivos a ignorar
+
