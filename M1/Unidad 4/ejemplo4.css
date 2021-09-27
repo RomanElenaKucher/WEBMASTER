@@ -1,0 +1,42 @@
+p{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+font-style: italic;
+}
+    h2{
+        text-transform:uppercase;
+    ;
+    }
+
+.destacados{
+    color: blue;
+}
+
+#caja{
+    width: 200px;
+    background-color: rgba(208,206,195,.5);
+    height: 300px;
+    cursor: pointer;
+    padding: 10px;
+    padding-left: 60px;
+    margin: 20px;
+    border: 2px dashed black;
+    
+
+}
+#caja:hover{
+    background-color: rgba(250,0,0,.3);
+    color: white;
+}
+
+a{
+    color: rgba (red, green, blue, .15);
+    font-size: 25px;
+}
+
+a:hover{
+background-color: indigo;
+color: white;
+
+}

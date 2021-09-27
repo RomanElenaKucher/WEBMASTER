@@ -1,0 +1,8 @@
+<p> p{ atributo:valor}
+<div id="testimonios"> #testimonios{atributo:valor}
+<div class="destacados"> .destacados{atributo:valor}
+<a href="#">Home </a>     a:hover{atributo:valor}
+
+p parrafo
+h titulos
+span texto corto
