@@ -33,6 +33,6 @@ font-family: 'Roboto', sans-serif;
         filter: grayscale(100%);}
         .imagen img:hover{filter: grayscale(0%)}
 
-    .icono{font-size: 100px;
+        .icono{font-size: 100px;
         color: white;
-        }
+    border: 1px solid black;}
