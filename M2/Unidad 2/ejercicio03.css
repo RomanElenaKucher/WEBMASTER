@@ -1,0 +1,36 @@
+.contenedor{
+	background-color: white;
+    border: solid 3px black;
+	display: flex;
+    align-items:center;
+	justify-content:space-between;
+    /* flex-direction:row;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%); */
+
+}
+.item{
+color: white;
+display: inline-flex;
+justify-content: center;
+height: 200px;
+width: 200px;
+align-items: center;
+
+
+}
+#rojo{
+
+	background-color: red;
+}
+
+#azul{
+
+	background-color: blue;
+}
+
+#verde{
+
+	background-color: green;
+}
