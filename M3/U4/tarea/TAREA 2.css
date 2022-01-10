@@ -1,0 +1,62 @@
+.cuadrado{ 
+    
+    width: 150px;
+    height: 150px;
+    /* padding: 15px 20px; */
+    border-radius: 0px;
+    
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    font-size: medium;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+        
+ }
+ /*
+.cuadrado:hover{
+    cursor:pointer;
+        
+} */
+
+
+.cuadrado.rojo {
+    background: red;
+    color: white;
+
+}
+.cuadrado.azul {
+    background: blue;
+    color: white;
+}
+.cuadrado.amarillo {
+    background: yellow;
+    color: black;
+}
+
+.fondo{
+    width: 500px;
+    height: 500px;
+
+
+}
+.fondo.rojo{
+    background: red;
+
+
+}
+.fondo.azul{
+    background: blue;
+
+ 
+}
+.fondo.amarillo{
+    background: yellow;
+
+
+}
+

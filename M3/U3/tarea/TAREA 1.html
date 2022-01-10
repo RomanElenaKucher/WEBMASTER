@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>TAREA 1</title>
+    </head>
+
+    <body>
+        <script>
+
+        
+        var valor=prompt('Ingrese la distancia a recorrer (en metros):','');
+
+
+if (valor<0)
+    {document.write("el valor debe ser mayor a cero")}
+else if (valor>=0 && valor<1000)
+    {document.write("pie")}
+else if (valor<=10000)
+    {document.write("bicicleta")}
+else if (valor<=30000)
+    {document.write("colectivo")}
+else if (valor<=100000)
+    {document.write("auto")}
+else {document.write("avion")}
+
+
+        </script>
+
+    </body>
+</html>
